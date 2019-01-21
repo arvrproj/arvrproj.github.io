@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://github.com/arvrproj/code/blob/master/earth-moon.html]
+earth-moon(https://github.com/arvrproj/code/blob/master/earth-moon.html)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
